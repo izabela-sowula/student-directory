@@ -47,7 +47,7 @@ end
 
 
 def print_footer(students)
-  puts "Overall, we have #{names.count} great students"
+  puts "Overall, we have #{students.count} great students"
 end
 #nothing happens until we call the methods
 students = input_students
